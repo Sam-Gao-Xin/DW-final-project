@@ -1,0 +1,29 @@
+
+deque: collection library
+
+start:
+
+window setup
+random?
+_random_offset()
+movement?
+move_apple(): random number 
+clock: interval
+
+is_valid: beyond the interface?
+
+update: loop
+
+drawing apple and snake:fill_square（show the box）
+rerender:
+
+
+next：
+movement: current pos and next pos
+
+states
+1.over
+2.continue(touch apple, choose anothor one  new position, snake length )
+
+
+gameover:
